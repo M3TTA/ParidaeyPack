@@ -1,82 +1,123 @@
+ {
+   "entity.creeper.primed":{
+      "replace":true,
+      "sounds":[
+         "random/fuse_creeper"
+      ]
+   },
+   "entity.egg.throw":{
+      "replace":true,
+      "sounds":[
+         "random/egg_throw"
+      ]
+   },
+   "entity.experience_bottle.throw":{
+      "replace":true,
+      "sounds":[
+         "random/egg_throw"
+      ]
+   },
+   "entity.splash_potion.throw":{
+      "replace":true,
+      "sounds":[
+         "random/egg_throw"
+      ]
+   },
+   "entity.lingering_potion.throw":{
+      "replace":true,
+      "sounds":[
+         "random/egg_throw"
+      ]
+   },
+   "entity.ender_pearl.throw":{
+      "replace":true,
+      "sounds":[
+         "random/egg_throw"
+      ]
+   },
+   "entity.snow_golem.shoot":{
+      "replace":true,
+      "sounds":[
+         "random/egg_throw"
+      ]
+   },
+   "entity.snowball.throw":{
+      "replace":true,
+      "sounds":[
+         "random/egg_throw"
+      ]
+   }
+},
 {
-"music_disc.laserdisc": {
-    "sounds": [
-        {
-            "name": "records/laserdisc",
-            "stream": true
-        }
-    ]
-},
-
-"music_disc.nobody": {
-    "sounds": [
-        {
-            "name": "records/nobody",
-            "stream": true
-        }
-    ]
-},
-
-"music_disc.coolin": {
-    "sounds": [
-        {
-            "name": "records/coolin",
-            "stream": true
-        }
-    ]
-},
-
-"music_disc.digitaldrumming": {
-    "sounds": [
-        {
-            "name": "records/digitaldrumming",
-            "stream": true
-        }
-    ]
-},
-
-"music_disc.radicalrails": {
-    "sounds": [
-        {
-            "name": "records/radicalrails",
-            "stream": true
-        }
-    ]
-},
-
-"music_disc.blendingin": {
-    "sounds": [
-        {
-            "name": "records/blendingin",
-            "stream": true
-        }
-    ]
-},
-
-"music_disc.pillaged": {
-    "sounds": [
-        {
-            "name": "records/pillaged",
-            "stream": true
-        }
-    ]
-},
-
-"music_disc.fortstress": {
-    "sounds": [
-        {
-            "name": "records/fortstress",
-            "stream": true
-        }
-    ]
-},
-
-"music_disc.distantlibrary": {
-    "sounds": [
-        {
-            "name": "records/distantlibrary",
-            "stream": true
-        }
-    ]
-}
-}
+   "music_disc.laserdisc":{
+      "sounds":[
+         {
+            "name":"records/laserdisc",
+            "stream":true
+         }
+      ]
+   },
+   "music_disc.nobody":{
+      "sounds":[
+         {
+            "name":"records/nobody",
+            "stream":true
+         }
+      ]
+   },
+   "music_disc.coolin":{
+      "sounds":[
+         {
+            "name":"records/coolin",
+            "stream":true
+         }
+      ]
+   },
+   "music_disc.digitaldrumming":{
+      "sounds":[
+         {
+            "name":"records/digitaldrumming",
+            "stream":true
+         }
+      ]
+   },
+   "music_disc.radicalrails":{
+      "sounds":[
+         {
+            "name":"records/radicalrails",
+            "stream":true
+         }
+      ]
+   },
+   "music_disc.blendingin":{
+      "sounds":[
+         {
+            "name":"records/blendingin",
+            "stream":true
+         }
+      ]
+   },
+   "music_disc.pillaged":{
+      "sounds":[
+         {
+            "name":"records/pillaged",
+            "stream":true
+         }
+      ]
+   },
+   "music_disc.fortstress":{
+      "sounds":[
+         {
+            "name":"records/fortstress",
+            "stream":true
+         }
+      ]
+   },
+   "music_disc.distantlibrary":{
+      "sounds":[
+         {
+            "name":"records/distantlibrary",
+            "stream":true
+         }
+      ]
+   }
