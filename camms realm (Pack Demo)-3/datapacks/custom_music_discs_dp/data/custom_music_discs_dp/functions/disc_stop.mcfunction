@@ -1,0 +1,9 @@
+execute as @s[nbt={Item:{tag:{CustomModelData:1}}}] at @s run stopsound @a[distance=..64] record minecraft:music_disc.laserdisc
+execute as @s[nbt={Item:{tag:{CustomModelData:2}}}] at @s run stopsound @a[distance=..64] record minecraft:music_disc.nobody
+execute as @s[nbt={Item:{tag:{CustomModelData:3}}}] at @s run stopsound @a[distance=..64] record minecraft:music_disc.coolin
+execute as @s[nbt={Item:{tag:{CustomModelData:4}}}] at @s run stopsound @a[distance=..64] record minecraft:music_disc.digitaldrumming
+execute as @s[nbt={Item:{tag:{CustomModelData:5}}}] at @s run stopsound @a[distance=..64] record minecraft:music_disc.radicalrails
+execute as @s[nbt={Item:{tag:{CustomModelData:6}}}] at @s run stopsound @a[distance=..64] record minecraft:music_disc.blendingin
+execute as @s[nbt={Item:{tag:{CustomModelData:7}}}] at @s run stopsound @a[distance=..64] record minecraft:music_disc.pillaged
+execute as @s[nbt={Item:{tag:{CustomModelData:8}}}] at @s run stopsound @a[distance=..64] record minecraft:music_disc.fortstress
+execute as @s[nbt={Item:{tag:{CustomModelData:9}}}] at @s run stopsound @a[distance=..64] record minecraft:music_disc.distantlibrary

@@ -1,4 +1,4 @@
 # ParidaeyPack
 
 
-This is the development build for the Paridaey Pack. 
+This is a demo world for the pack to showcase its changes

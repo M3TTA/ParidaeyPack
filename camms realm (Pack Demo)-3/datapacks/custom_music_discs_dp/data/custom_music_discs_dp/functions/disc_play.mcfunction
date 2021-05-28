@@ -1,0 +1,9 @@
+execute as @s[scores={heldDisc=1}] run function custom_music_discs_dp:play_laserdisc
+execute as @s[scores={heldDisc=2}] run function custom_music_discs_dp:play_nobody
+execute as @s[scores={heldDisc=3}] run function custom_music_discs_dp:play_coolin
+execute as @s[scores={heldDisc=4}] run function custom_music_discs_dp:play_digitaldrumming
+execute as @s[scores={heldDisc=5}] run function custom_music_discs_dp:play_radicalrails
+execute as @s[scores={heldDisc=6}] run function custom_music_discs_dp:play_blendingin
+execute as @s[scores={heldDisc=7}] run function custom_music_discs_dp:play_pillaged
+execute as @s[scores={heldDisc=8}] run function custom_music_discs_dp:play_fortstress
+execute as @s[scores={heldDisc=9}] run function custom_music_discs_dp:play_distantlibrary

@@ -1,0 +1,12 @@
+Removed world/DIM-1/data/raids.dat: not used
+Removed world/DIM1/poi/r.-1.-1.mca: 0 size
+Removed world/DIM1/poi/r.-1.0.mca: 0 size
+Removed world/DIM1/poi/r.-1.1.mca: 0 size
+Removed world/DIM1/poi/r.0.-1.mca: 0 size
+Removed world/DIM1/poi/r.0.0.mca: 0 size
+Removed world/DIM1/poi/r.0.1.mca: 0 size
+Removed world/gc-logs/gc-20210521_2344.log: not used
+Removed world/gc-logs/gc-20210528_0225.log: not used
+Removed world/gc-logs/gc-20210528_1431.log: not used
+Removed world/poi/r.-1.-1.mca: 0 size
+Validated 86 files, 75 accepted, 11 rejected.
