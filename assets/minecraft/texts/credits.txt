@@ -12,7 +12,6 @@ Ira Kaspi
 Nightmargin
 JamiesName
 the bling bling cheese 64
-Alias Conrad Coldwood
 
 
 §7Painting Artists
@@ -31,7 +30,7 @@ Jasper "JAPPA" Boerstra
 Cammy "M3TA" Wilson-Reilly
 Jasper "JAPPA" Boerstra
 
-&7Poet
+§7Poet
 Cammy "M3TA" Wilson-Reilly
 
 
@@ -40,9 +39,5 @@ Cammy "M3TA" Wilson-Reilly
 StarRider625
 Lucas Fielder
 Village
-
-
-
-
 
 §f"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover." §7- Mark Twain
