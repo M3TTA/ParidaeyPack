@@ -1,80 +1,80 @@
 {
-"music_disc.laserdisc": {
+"music_disc.dyzoplaserdisc": {
     "sounds": [
         {
-            "name": "records/laserdisc",
+            "name": "records/dyzoplaserdisc",
             "stream": true
         }
     ]
 },
 
-"music_disc.nobody": {
+"music_disc.dyzopnobody": {
     "sounds": [
         {
-            "name": "records/nobody",
+            "name": "records/dyzopnobody",
             "stream": true
         }
     ]
 },
 
-"music_disc.coolin": {
+"music_disc.dyzopcoolin": {
     "sounds": [
         {
-            "name": "records/coolin",
+            "name": "records/dyzopcoolin",
             "stream": true
         }
     ]
 },
 
-"music_disc.digitaldrumming": {
+"music_disc.dyzopdigitaldrumming": {
     "sounds": [
         {
-            "name": "records/digitaldrumming",
+            "name": "records/dyzopdigitaldrumming",
             "stream": true
         }
     ]
 },
 
-"music_disc.radicalrails": {
+"music_disc.djkychuradicalrails": {
     "sounds": [
         {
-            "name": "records/radicalrails",
+            "name": "records/djkychuradicalrails",
             "stream": true
         }
     ]
 },
 
-"music_disc.blendingin": {
+"music_disc.djkychublendingin": {
     "sounds": [
         {
-            "name": "records/blendingin",
+            "name": "records/djkychublendingin",
             "stream": true
         }
     ]
 },
 
-"music_disc.pillaged": {
+"music_disc.jamiesnamepillaged": {
     "sounds": [
         {
-            "name": "records/pillaged",
+            "name": "records/jamiesnamepillaged",
             "stream": true
         }
     ]
 },
 
-"music_disc.fortstress": {
+"music_disc.blingblingfortstress": {
     "sounds": [
         {
-            "name": "records/fortstress",
+            "name": "records/blingblingfortstress",
             "stream": true
         }
     ]
 },
 
-"music_disc.distantlibrary": {
+"music_disc.nightmargindistantlibrary": {
     "sounds": [
         {
-            "name": "records/distantlibrary",
+            "name": "records/nightmargindistantlibrary",
             "stream": true
         }
     ]
