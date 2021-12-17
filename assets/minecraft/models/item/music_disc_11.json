@@ -8,55 +8,55 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "item/music_disc_laserdisc"
+            "model": "item/music_disc_dyzoplaserdisc"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/music_disc_nobody"
+            "model": "item/music_disc_dyzopnobody"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "item/music_disc_coolin"
+            "model": "item/music_disc_dyzopcoolin"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "item/music_disc_digitaldrumming"
+            "model": "item/music_disc_dyzopdigitaldrumming"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "item/music_disc_radicalrails"
+            "model": "item/music_disc_djkychuradicalrails"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "item/music_disc_blendingin"
+            "model": "item/music_disc_djkychublendingin"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "item/music_disc_pillaged"
+            "model": "item/music_disc_jamiesnamepillaged"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "item/music_disc_fortstress"
+            "model": "item/music_disc_blingblingfortstress"
         },
         {
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "item/music_disc_distantlibrary"
+            "model": "item/music_disc_nightmargindistantlibrary"
         }
     ]
 }
